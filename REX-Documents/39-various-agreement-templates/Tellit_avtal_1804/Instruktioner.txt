@@ -1,0 +1,97 @@
+ADOBE INDESIGN - TRYCKINSTRUKTIONER FÖR TJÄNSTLEVERANTÖR
+
+DOKUMENTNAMN:  Tellit_avtal.indd
+
+PACKNINGSDATUM:  2018-04-18 12:53
+Skapad:  2018-04-18
+Senast ändrad:  2018-04-18
+
+KONTAKTINFORMATION
+
+Företagsnamn:  
+Kontakt:  
+Adress:  
+
+
+
+
+
+Telefon:  
+Faxnummer:  
+E-postadress:  
+
+SÄRSKILDA INSTRUKTIONER OCH ANDRA MEDDELANDEN
+
+
+
+
+
+
+Externa plugin-program 0
+Icke-ogenomskinliga objekt: På sidan1, 2, 3, 4, 5
+
+TECKENSNITT
+7 använda; 0 saknade, 0 inbäddade, 0 ofullständiga, 0 skyddade
+
+Teckensnitt som inte packats
+- Namn:  NanumBrush; Typ:  TrueType, Status:  OK
+Teckensnitt som packats
+- Namn:  Arial-BoldMT; Typ:  OpenType TrueType, Status:  OK
+- Namn:  ArialMT; Typ:  OpenType TrueType, Status:  OK
+- Namn:  MinionPro-Regular; Typ:  OpenType Type 1, Status:  OK
+- Namn:  TPRubrik-Bold; Typ:  OpenType Type 1, Status:  OK
+- Namn:  TPRubrik-Medium; Typ:  OpenType Type 1, Status:  OK
+- Namn:  TPRubrik-Regular; Typ:  OpenType Type 1, Status:  OK
+
+
+FÄRGER OCH BLÄCK
+4 processfärger; 0 dekorfärger
+
+- Namn och typ:  Cyan (processfärg); Vinkel:  75,000; Linjer/tum:  70,000
+- Namn och typ:  Magenta (processfärg); Vinkel:  15,000; Linjer/tum:  70,000
+- Namn och typ:  Gul (processfärg); Vinkel:  0,000; Linjer/tum:  70,000
+- Namn och typ:  Svart (processfärg); Vinkel:  45,000; Linjer/tum:  70,000
+
+
+LÄNKAR OCH BILDER
+(Endast saknade och inbäddade länkar)
+Länkar och bilder: 6 hittade; 0 ändrade, 0 saknade 0 otillgängliga
+Bilder: 0 inbäddade, 6 använder RGB-färgmodell
+
+
+UTSKRIFTSINSTÄLLNINGAR
+PPD: KONICA MINOLTA bizhub C280, (192.168.243.160)
+Skriv ut till: Skrivare
+Antal kopior: 1
+Uppslag: Nej
+Jämna/udda sidor: Båda
+Sidor: Alla
+Korrektur: Nej
+Passram: Ingen
+Förstoringsgrad: 100 %, 100 %
+Sidplacering: Överst till vänster
+Skriv ut lager: Synliga och utskrivbara lager
+Pass- och skärmärken: Ingen
+Utfall: 0 mm, 0 mm, 0 mm, 0 mm
+Färg: Sammansatt CMYK
+Svällningsläge: inget
+Skicka bildinformation: Begränsad upplösning
+OPI/DCS-bildersättning: Nej
+Sidstorlek: A4
+Pappersformat: 209,903 mm x 297,039 mm
+Orientering: Stående
+Negativ: Nej
+Vändningsläge: Av
+
+
+FILLISTA
+
+1. Tellit_avtal.indd; text:  Adobe InDesign-publikation; storlek:  1340K
+2. Tellit_avtal.idml; text:  InDesign-dokument med kommentarer; storlek:  106K
+3. Tellit_avtal.pdf; text:  Adobe Acrobat-dokument; storlek:  357K
+4. Arial Bold.ttf; text:  Teckensnittsfil; storlek:  733K
+5. Arial.ttf; text:  Teckensnittsfil; storlek:  755K
+6. MinionPro-Regular.otf; text:  Teckensnittsfil; storlek:  213K
+7.  TPRubrik-Bold.otf; text:  Teckensnittsfil; storlek:  60K
+8. TPRubrik-Medium.otf; text:  Teckensnittsfil; storlek:  60K
+9. TPRubrik-Regular.otf; text:  Teckensnittsfil; storlek:  59K
